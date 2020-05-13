@@ -9,4 +9,4 @@ python3
 sympy
 
 ## P.S.
-Warning: It is very shallow but gets the job done. Also, I am a begginer.
+Warning: It is very shallow but gets the job done. Also, I am a beginer.
